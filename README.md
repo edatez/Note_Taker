@@ -18,6 +18,6 @@ For users that need to keep track of a lot of information, it's easy to forget o
 
 ## Deploying the App
 
-You can find the working app at [Heroku](https://dashboard.heroku.com/apps/mighty-shore-89275) 
+You can find the working app at [Heroku](https://shielded-island-84013.herokuapp.com/) 
 
 - - -
